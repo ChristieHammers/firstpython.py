@@ -1,1 +1,2 @@
-# firstpython.py
+# Print the output
+print("New Python file")
